@@ -1,7 +1,5 @@
 
-テスト２
-テスト
-
+参照側から変更
 
 
 Submodule Sample
